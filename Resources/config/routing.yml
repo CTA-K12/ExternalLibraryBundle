@@ -1,0 +1,3 @@
+mesd_external_library_homepage:
+    path:  /hello/{name}
+    defaults: { _controller: MesdExternalLibraryBundle:Default:index }

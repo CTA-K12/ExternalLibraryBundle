@@ -1,0 +1,7 @@
+parameters:
+#    mesd_external_library.example.class: Mesd\ExternalLibraryBundle\Example
+
+services:
+#    mesd_external_library.example:
+#        class: %mesd_external_library.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
