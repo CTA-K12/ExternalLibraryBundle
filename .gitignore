@@ -1,19 +1,5 @@
-# Bootstrap
-# app/bootstrap*
-
-# Symfony directories
-# vendor/*
-# */logs/*
-# */cache/*
-# web/uploads/*
-# web/bundles/*
-
-# Configuration files
-app/config/parameters.ini
-app/config/parameters.yml
-
 # Bower Dependencies
-Resources/public/bower_components*
+Resources/public/bower_components/*
 
 # Composer
 # composer.phar
