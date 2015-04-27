@@ -88,6 +88,14 @@ assetic:
 Usage
 -----
 
+```bash
+    cd src/Mesd/ExternalLibraryBundle/Resources/public
+    bower install
+    cd bower_components/jquery.ui
+    npm install
+    grunt concat
+```
+
 Troubleshooting
 ---------------
 
