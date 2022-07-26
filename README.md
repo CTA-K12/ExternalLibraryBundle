@@ -88,6 +88,13 @@ assetic:
 Usage
 -----
 
+Make sure you have npm, bower, and grunt installed
+```bash
+    sudo dnf install npm -y
+    sudo npm install -g bower
+    sudo npm install -g grunt
+```
+
 ```bash
     cd src/Mesd/ExternalLibraryBundle/Resources/public
     bower install
